@@ -1,8 +1,12 @@
-# Retail Sales Performance 
+# Retail Sales Performance Dashboard
 
 An interactive **Power BI dashboard** designed to analyze retail sales performance, customer behavior, product categories, and revenue trends.
 
-## 📊 Project Overview
+## 📊 Dashboard Preview
+
+![Retail Sales Performance Dashboard](Retail_Sales_Dashboard_Image.png)
+
+## 📌 Project Overview
 
 This project provides an interactive view of retail sales data using **Power BI**, **Excel**, and **SQL**. The dashboard helps identify sales trends, top-performing categories, customer demographics, and the relationship between quantity and revenue.
 
@@ -15,10 +19,10 @@ This project provides an interactive view of retail sales data using **Power BI*
 * Sales by gender
 * Sales by age group
 * Quantity vs Revenue analysis
-* Interactive slicers for filtering the dashboard
-* Key business insights for quick decision-making
+* Interactive slicers
+* Key business insights
 
-## 📌 Key Insights
+## 📈 Key Insights
 
 * **Total Sales:** ₹3.12M
 * **Top Category:** Groceries
@@ -28,25 +32,9 @@ This project provides an interactive view of retail sales data using **Power BI*
 ## 🛠️ Tools & Technologies
 
 * **Power BI** — Dashboard development & visualization
-* **Microsoft Excel** — Data source & data preparation
+* **Microsoft Excel** — Data source and data preparation
 * **SQL** — Data analysis and queries
 * **DAX** — Measures and calculations
-
-## 📈 Dashboard Visuals
-
-The dashboard includes:
-
-1. Total Sales
-2. Total Quantity
-3. Total Transactions
-4. Average Order Value
-5. Monthly Sales Trend
-6. Sales by Product Category
-7. Sales by Gender
-8. Sales by Age Group
-9. Quantity vs Revenue
-10. Key Insights
-11. Interactive Slicers
 
 ## 📂 Project Files
 
@@ -83,7 +71,3 @@ The dashboard includes:
 **Sejal Hadole**
 
 Aspiring Data Analyst | Power BI | SQL | Excel | Python
-
----
-
-⭐ If you find this project useful, feel free to explore the repository.
