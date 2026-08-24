@@ -69,5 +69,4 @@ This project provides an interactive view of retail sales data using **Power BI*
 ## 👩‍💻 Author
 
 **Sejal Hadole**
-
-Aspiring Data Analyst | Power BI | SQL | Excel | Python
+(https://github.com/SejalHadole)
